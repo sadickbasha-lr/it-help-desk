@@ -40,7 +40,7 @@ def check(label, result):
     return result
 
 
-print(f"\nSmoking-testing tools against: {tools.API_BASE_URL}\n")
+print(f"\nSmoke testing tools against: {tools.API_BASE_URL}\n")
 
 # 1. list_tickets
 result = check("list_tickets()", tools.list_tickets())

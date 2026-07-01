@@ -1,0 +1,7 @@
+# IT Help Desk ADK Agent — Python dependencies
+
+# Google Agent Development Kit
+google-adk>=1.0.0
+
+# HTTP client for API calls
+requests>=2.31.0
